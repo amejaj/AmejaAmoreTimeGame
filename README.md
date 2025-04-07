@@ -11,4 +11,5 @@ https://amejaj.github.io/AmejaApparelTimeGame/
 https://github.com/amejaj/AmejaApparelTimeGame
 
 ## 📷 Screenshot
-![Screenshot](screenshot.png)
+![Screenshot 2025-04-07 155027.png](../../OneDrive/Pictures/Screenshots/Screenshot%202025-04-07%20155027.png)
+
